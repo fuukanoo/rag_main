@@ -16,6 +16,8 @@ tiktoken
 azure-ai-documentintelligence 
 azure-identity 
 azure-search-documents==11.6.0b3
+azure-cosmos
+ipdb
 
 python-docx
 pandas
